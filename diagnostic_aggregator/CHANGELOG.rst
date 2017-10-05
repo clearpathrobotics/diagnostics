@@ -2,8 +2,8 @@
 Changelog for package diagnostic_aggregator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.9.3 (2017-10-05)
+------------------
 * Upstream missing changes to add_analyzers
 * Contributors: trainman419
 
